@@ -1,0 +1,45 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "MD2CGNPAYG.vn.foody.DeliveryNow",
+        "paths": [
+          "NOT /gioi-thieu",
+          "NOT /how-to-order-delivery",
+          "NOT /payment-guide",
+          "NOT /regulation",
+          "NOT /regulation-now",
+          "NOT /quy-che-now",
+          "NOT /terms-of-service",
+          "NOT /security-policy",
+          "NOT /adjustment-of-claims",
+          "NOT /lien-he",
+          "NOT /tuyen-dung",
+          "NOT /merchant-register",
+          "NOT /account/login",
+          "*"
+        ]
+      },
+      {
+        "appID": "TT2N7PPCM7.vn.foody.DeliveryNow.enterprise",
+        "paths": [
+          "NOT /gioi-thieu",
+          "NOT /how-to-order-delivery",
+          "NOT /payment-guide",
+          "NOT /regulation",
+          "NOT /regulation-now",
+          "NOT /quy-che-now",
+          "NOT /terms-of-service",
+          "NOT /security-policy",
+          "NOT /adjustment-of-claims",
+          "NOT /lien-he",
+          "NOT /tuyen-dung",
+          "NOT /merchant-register",
+          "NOT /account/login",
+          "*"
+        ]
+      }
+    ]
+  }
+}
